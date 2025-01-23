@@ -5,7 +5,7 @@
       <div class="flex justify-between items-center">
         <div>
           <h1 class="text-3xl font-bold">Green Apple Bookkeeping</h1>
-          <p>Your trusted partner in financial organization</p>
+          <p>Growing yor business one transaction at a time.</p>
         </div>
         <nav>
           <ul class="flex space-x-6">
@@ -24,9 +24,13 @@
       <p class="text-lg text-lime-500 mt-4">
         We provide expert bookkeeping services for small businesses, startups, and individuals.
       </p>
-      <!-- <div class="flex justify-center items-center">
-        <img src="/dist/assets/GA_LOGO.png" alt="logo" class="w-1/4" />
-      </div> -->
+      <div class="flex justify-center items-center">
+        <img
+          src="https://javierquirogae.github.io/pics/pics/GA_LOGO.png"
+          alt="logo"
+          class="w-1/4"
+        />
+      </div>
       <button
         @click="contactUs"
         class="bg-lime-500 text-white px-6 py-3 mt-6 rounded-lg hover:bg-lime-600 transition"
