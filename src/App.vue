@@ -33,13 +33,6 @@
         financial systems related to bookkeeping to ensure compliance, and unpacking financial
         reports for understanding.
       </p>
-
-      <button
-        @click="contactUs"
-        class="bg-lime-500 text-white px-6 py-3 mt-3 rounded-lg hover:bg-lime-600 transition"
-      >
-        Get in Touch
-      </button>
     </section>
 
     <!-- Services Section -->
@@ -153,48 +146,15 @@
         Choosing my services means more than just getting a bookkeeper; it means gaining a partner
         committed to your growth and success.
       </p>
-    </section>
-
-    <!-- Contact Section -->
-    <section id="contact" class="py-16 px-4 text-center">
-      <h2 class="text-4xl font-semibold text-lime-500 mb-8">Contact Us</h2>
-      <form @submit.prevent="submitForm" class="max-w-lg mx-auto space-y-6">
-        <div>
-          <label for="name" class="block text-lime-500">Name:</label>
-          <input
-            type="text"
-            v-model="form.name"
-            id="name"
-            class="w-full px-4 py-2 mt-2 border border-lime-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
-            required
-          />
-        </div>
-        <div>
-          <label for="email" class="block text-lime-500">Email:</label>
-          <input
-            type="email"
-            v-model="form.email"
-            id="email"
-            class="w-full px-4 py-2 mt-2 border border-lime-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
-            required
-          />
-        </div>
-        <div>
-          <label for="message" class="block text-lime-500">Message:</label>
-          <textarea
-            v-model="form.message"
-            id="message"
-            class="w-full px-4 py-2 mt-2 border border-lime-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
-            required
-          ></textarea>
-        </div>
-        <button
-          type="submit"
-          class="bg-lime-500 text-white px-6 py-3 mt-6 rounded-lg hover:bg-lime-700 transition"
-        >
-          Submit
-        </button>
-      </form>
+      <section id="button" class="py-16 text-center px-10">
+        <a href="https://calendly.com/greenapplebookkeeping/30min" target="_blank">
+          <button
+            class="bg-lime-500 text-white px-6 py-3 mt-3 rounded-lg hover:bg-lime-600 transition"
+          >
+            Click here to schedule free discovery call!
+          </button>
+        </a>
+      </section>
     </section>
 
     <!-- Footer Section -->
