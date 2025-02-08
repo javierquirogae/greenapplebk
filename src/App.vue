@@ -25,7 +25,7 @@
         <img
           src="https://javierquirogae.github.io/pics/pics/GA_LOGO.png"
           alt="logo"
-          class="w-full sm:w-1/2 md:w-1/3 lg:1/4"
+          class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4"
         />
       </div>
       <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200 text-justify">
@@ -146,12 +146,27 @@
         Choosing my services means more than just getting a bookkeeper; it means gaining a partner
         committed to your growth and success.
       </p>
-      <section id="button" class="py-16 text-center px-10">
+      <section id="contact" class="py-16 text-center px-10">
+        <h2 class="text-4xl font-semibold text-lime-500 mb-6">Contact Us!</h2>
         <a href="https://calendly.com/greenapplebookkeeping/30min" target="_blank">
           <button
             class="bg-lime-500 text-white px-6 py-3 mt-3 rounded-lg hover:bg-lime-600 transition"
           >
             Click here to schedule free discovery call!
+          </button>
+        </a>
+        <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">
+          Phone number: <a href="tel:801-787-4071">801-787-4071</a>
+        </p>
+        <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">
+          Email:
+          <a href="mailto:greenapplebookkeeping@gmail.com">greenapplebookkeeping@gmail.com</a>
+        </p>
+        <a href="https://www.linkedin.com/in/brenda-quiroga-gab/" target="_blank">
+          <button
+            class="bg-lime-500 text-white text-4xl font-black mt-3 px-1 rounded-lg hover:bg-lime-600 transition"
+          >
+            in
           </button>
         </a>
       </section>
