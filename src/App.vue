@@ -146,9 +146,9 @@
         Choosing my services means more than just getting a bookkeeper; it means gaining a partner
         committed to your growth and success.
       </p>
-      <section id="contact" class="py-16 text-center px-10">
+      <section id="contact" class="py-16 text-center">
         <h2 class="text-4xl font-semibold text-lime-500 mb-6">Contact Us!</h2>
-        <div class="p-6">
+        <div class="py-6">
           <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">
             Schedule a consultation:
           </h3>
