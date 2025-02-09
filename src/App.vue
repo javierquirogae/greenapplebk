@@ -168,7 +168,7 @@
         </div>
         <div class="p-6">
           <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Email:</h3>
-          <p class="text-lg text-lime-500 px-5 hover:text-lime-600">
+          <p class="text-lg text-lime-500 hover:text-lime-600">
             <a href="mailto:greenapplebookkeeping@gmail.com">greenapplebookkeeping@gmail.com</a>
           </p>
         </div>
