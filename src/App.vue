@@ -148,20 +148,31 @@
       </p>
       <section id="contact" class="py-16 text-center px-10">
         <h2 class="text-4xl font-semibold text-lime-500 mb-6">Contact Us!</h2>
-        <a href="https://calendly.com/greenapplebookkeeping/30min" target="_blank">
-          <button
-            class="bg-lime-500 text-white px-6 py-3 mt-3 rounded-lg hover:bg-lime-600 transition"
-          >
-            Click here to schedule free discovery call!
-          </button>
-        </a>
-        <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">
-          Phone number: <a href="tel:801-787-4071">801-787-4071</a>
-        </p>
-        <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">
-          Email:
-          <a href="mailto:greenapplebookkeeping@gmail.com">greenapplebookkeeping@gmail.com</a>
-        </p>
+        <div class="p-6">
+          <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">
+            Schedule a consultation:
+          </h3>
+          <a href="https://calendly.com/greenapplebookkeeping/30min" target="_blank">
+            <button
+              class="bg-lime-500 text-white px-6 py-3 mt-3 rounded-lg hover:bg-lime-600 transition"
+            >
+              Calendly
+            </button>
+          </a>
+        </div>
+        <div class="p-6">
+          <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Call:</h3>
+          <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200 hover:text-lime-600">
+            <a href="tel:801-787-4071">801-787-4071</a>
+          </p>
+        </div>
+        <div class="p-6">
+          <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Email:</h3>
+          <p class="text-lg text-lime-500 px-5 hover:text-lime-600">
+            <a href="mailto:greenapplebookkeeping@gmail.com">greenapplebookkeeping@gmail.com</a>
+          </p>
+        </div>
+        <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Visit:</h3>
         <a href="https://www.linkedin.com/in/brenda-quiroga-gab/" target="_blank">
           <button
             class="bg-lime-500 text-white text-4xl font-black mt-3 px-1 rounded-lg hover:bg-lime-600 transition"
