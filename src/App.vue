@@ -160,26 +160,28 @@
             </button>
           </a>
         </div>
-        <div class="p-6">
+        <div class="py-6">
           <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Call:</h3>
           <p class="text-lg text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200 hover:text-lime-600">
             <a href="tel:801-787-4071">801-787-4071</a>
           </p>
         </div>
-        <div class="p-6">
+        <div class="py-6">
           <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Email:</h3>
           <p class="text-lg text-lime-500 hover:text-lime-600">
             <a href="mailto:greenapplebookkeeping@gmail.com">greenapplebookkeeping@gmail.com</a>
           </p>
         </div>
-        <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Visit:</h3>
-        <a href="https://www.linkedin.com/in/brenda-quiroga-gab/" target="_blank">
-          <button
-            class="bg-lime-500 text-white text-4xl font-black mt-3 px-1 rounded-lg hover:bg-lime-600 transition"
-          >
-            in
-          </button>
-        </a>
+        <div class="py-6">
+          <h3 class="text-2xl text-lime-500 px-5 sm:px-10 md:px-20 lg:px-200">Visit:</h3>
+          <a href="https://www.linkedin.com/in/brenda-quiroga-gab/" target="_blank">
+            <button
+              class="bg-lime-500 text-white text-4xl font-black mt-3 px-1 rounded-lg hover:bg-lime-600 transition"
+            >
+              in
+            </button>
+          </a>
+        </div>
       </section>
     </section>
 
